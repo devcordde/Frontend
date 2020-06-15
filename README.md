@@ -1,0 +1,2 @@
+# Frontend
+The DevCord Frontend.
